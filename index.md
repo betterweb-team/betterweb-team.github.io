@@ -2,7 +2,7 @@
 A chrome plugin that uses Machine Learning and Natural Language Processing to help reducing media  bias and to help building a better, more democratic web.
 
 ## Meet the contributors
-Faraz:
+Faraz: I'm working to have the skillset of a full stack developer. I like SSBU and lychee juice.
 Haoji:
 Moses:
 
